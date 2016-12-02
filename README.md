@@ -1,0 +1,1 @@
+# cplusplus_stl_vector_class_inheritance
